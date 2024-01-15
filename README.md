@@ -12,4 +12,4 @@ User Interface
 ![Generated Report](https://github.com/ThesaranaDissanayake/TourGenie-Travel-and-Tourism-Web-Application/assets/128695643/b1b0b3b2-ab03-40d5-96fd-276963450150)
 
 
-Project Proposal.pdf
+
