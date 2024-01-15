@@ -1,5 +1,6 @@
 # TourGenie-Travel-and-Tourism-Web-Application
 
+[Project Proposal](FILE_NAME.pdf)
 User Interface
 
 ![Transport Management Dashbrod](https://github.com/ThesaranaDissanayake/TourGenie-Travel-and-Tourism-Web-Application/assets/128695643/899eb457-7931-4b7f-b859-8cdb816e8de1)
